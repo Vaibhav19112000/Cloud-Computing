@@ -1,0 +1,24 @@
+Cloud Computing
+
+Saas:-
+	- Saas allow each user to access program through internet,istead of having installation.
+	- By username and password we can access from anywere any system.
+
+Paas:-
+	- You purchase resource on a pay-as-you-go basis.
+	- Access them over a secure internet.
+	- It include infrastructure server, storage and networking.
+	- Server will provide the platform to run your software.
+
+Iaas:-
+	- Server provide you all thing like Infrastructre, Structure, Software,
+	  O/S, Application, Virtualization, Storage, Networking.
+	- In cloud computing is when you rent access to cloud infrastructure 
+	  resource asa individual service from cloud service provider.
+
+Virtualization:-
+	- Virtualization is technology that you can use to create virtual representations 
+	  of servers, storage, networks, and other physical machines. 
+	- There are two main methods: 
+		1) local
+		2) remote
