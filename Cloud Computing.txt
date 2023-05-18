@@ -22,3 +22,22 @@ Virtualization:-
 	- There are two main methods: 
 		1) local
 		2) remote
+
+Service-oriented architecture (SOA):-
+	- SOA is a method of software development that uses software components 
+	  called services to create business applications.
+
+Multi-tenancy:-
+	- Cloud computing providers can support multiple tenants (users or organizations)
+	  on a single set of shared resources.
+	- It is commonly used cloud computing where it allow multiple customer to share.
+
+Security:-
+	- Cloud providers invest heavily in security measures to protect their users data 
+	  and ensure the privacy of sensitive information.
+
+Virtual provisioning:-
+	- Virtual provisioning is a virtual storage network in which storage space is allocated on demand to devices.
+	- It is Virtual storage area network (VSAN) based technology. 
+	- This process allows virtualized environments to control the allocation and management of physical disk 
+	  storage.
